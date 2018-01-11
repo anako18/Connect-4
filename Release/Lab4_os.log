@@ -1,0 +1,14 @@
+﻿Сборка начата 11.01.2018 16:35:05.
+     1>Проект "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Connect4\Lab4_os\Lab4_os.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(212): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(430): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(445): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(477): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Сборка проекта "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Connect4\Lab4_os\Lab4_os.vcxproj" завершена (целевые объекты ClCompile).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.67
